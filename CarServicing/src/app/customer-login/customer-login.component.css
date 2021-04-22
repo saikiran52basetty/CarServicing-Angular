@@ -1,0 +1,23 @@
+.bg-primary{
+	background-color:#5A585B !important;
+	
+	}
+	body{
+        background-color:rgb(5, 122, 151);
+        background-image:url("https://images.unsplash.com/photo-1610305779357-3337a9597941?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=376&q=80");
+        background-size: 100%;
+    }
+    div{
+        text-align: center;
+        font-weight:bold;
+    }
+    h2{
+      
+        font-family:sans-serif;
+    }
+    p{
+        font-family: sans-serif;
+        font-size: medium;
+        font-weight: bold;
+        
+    }

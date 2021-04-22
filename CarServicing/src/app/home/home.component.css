@@ -1,0 +1,22 @@
+h1 {
+	font-size: xx-large;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	text-decoration-color: blanchedalmond;
+}
+
+.bg-primary {
+	background-color: black !important;
+}
+
+.navbar-right {
+	float: right;
+}
+
+body {
+	background-repeat: no-repeat;
+	background-image:
+		url();
+	background-size: 100%;
+}
